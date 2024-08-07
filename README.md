@@ -38,11 +38,14 @@ To set up the project and install the necessary dependencies, follow these steps
 
    The requirements.txt file includes the necessary Python libraries for this project. Ensure you have the following packages installed:
     
-   opencv-python
-   cvzone
+   opencv-python ||
+   cvzone ||
    numpy
    
-5.Usage
-  Adjust Parking Space Positions: Modify Parking_space_posintions.py to set the positions of parking spaces in the video.
-  Process the Video: The main.py script processes the video carPark.mp4, counts the available parking spaces, and saves the output to output.mp4.
+5. **Output**
+
+You can view the output video of the parking space counting system below:
+
+![Output Video](https://github.com/MoazEldsouky/Parking-Space-Counter-using-OpenCV-Python-Computer-Vision/blob/main/output.mp4)
+
   
