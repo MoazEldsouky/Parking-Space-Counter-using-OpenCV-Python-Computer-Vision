@@ -46,6 +46,6 @@ To set up the project and install the necessary dependencies, follow these steps
 
 You can view the output video of the parking space counting system below:
 
-![Output Video](https://github.com/MoazEldsouky/Parking-Space-Counter-using-OpenCV-Python-Computer-Vision/blob/main/output.mp4)
+![Output](https://github.com/MoazEldsouky/Parking-Space-Counter-using-OpenCV-Python-Computer-Vision/blob/main/output.gif)
 
   
