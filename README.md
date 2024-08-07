@@ -1,5 +1,3 @@
-Here is the updated `README.md` with the output video included as well:
-
 ```markdown
 # Parking Space Counter Using OpenCV and Python
 
@@ -85,5 +83,4 @@ Contributions to the project are welcome. Please follow these steps to contribut
 ## License
 
 This project is licensed under the MIT License.
-
 ```
